@@ -1,0 +1,8 @@
+Report_ID	Form_Section	Field_Label	Patient_Data_Entry	Compliance_Validation_Check
+AZ-SAE-2026-01	SEC_A_PATIENT	Patient_Identifier	AZ-01-002	Valid_Subject_ID
+AZ-SAE-2026-01	SEC_B_ADVERSE	Adverse_Event_Outcome	Hepatocellular_Stress_Transaminase_Spike	Serious_Adverse_Event_Tier_1
+AZ-SAE-2026-01	SEC_B_ADVERSE	Date_of_Event	2026-07-15	Mid_Cycle_Day_14_Audit
+AZ-SAE-2026-01	SEC_C_PRODUCT	Suspect_Product	Organic_Azadirachta_indica_1250mg_Core	Botanical_Unclassified_Drug
+AZ-SAE-2026-01	SEC_C_PRODUCT	Lot_Batch_Number	AZ-NEEM-LOT-004B	LOD_Verified_LessThan_2_Percent
+AZ-SAE-2026-01	SEC_D_SUSPECT	Dosing_Regimen_Total	2500mg_Daily_Two_Tablets_Max	Complies_With_Daily_Ceiling
+AZ-SAE-2026-01	SEC_E_REPORTER	Physician_Sponsor_Name	_________________________________	Requires_Ink_Signature
