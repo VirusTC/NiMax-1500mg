@@ -1,10 +1,6 @@
-This compilation synthesizes the pharmaceutical applications, chemical and regulatory frameworks, molecular mechanisms, extraction kinetics, and pharmacokinetic mathematical equations for *[Azadirachta indica](https://www.google.com/search?q=azadirachta+indica&kgmid=/m/0c7d8#sv=CBwS9AMKugMStwMK9wJBSmlUNHRKX29MMlJvVFprX2llZHJOZ3EwbWduTmZ1YWZDYjljd0xYbXdFWjZkZEFETWp6d3VqNjZkNFFva1RHNUpEVjdNMHV5TC1Sc1J1TUM3MjZnRTU0eXd2NHFaQkFfU1ByWjVjTVZPR0FqY3VZY0lBQ3c2bkcwUElPNFVxbXJvRUdKUHhSLUtvZDBfRHpNblpPbWlyS2tfWmR0dkN4QmwtQVRzVHhqR0NxSjlhbDA2S095UzZRaFY3TEVDV3dJTmhyTzhveXQzdkZOZzAwR1JrSDBIWkhBVk1vN2p1MW96UDV3OUpCd2cwZTFkUVlKZGVHVG5xX3VUdlBjUjEyb2hVMGNBWnh5S3M3UnVjdUtCY2E3Ylo0T0xjc0JlclRhVWdsenBqb24xNm12aW9HRFVabTNpWjluRmJpYzRVMmNYVDNJOW9fTWJ0cEh6bUdDUkV1U3FoWlBRVHoxRy1TVzRWeWFaUmM4cTFCMG9CNW9mMnZQbTgSF0d0eFhhcmJsRHBPSjBQRVByczZSc0F3GiJBRHNyOWZTRUxrc2pyeUJfczBNQ2hjQlhXWnplcGNDT3dBEgQ3ODU0GgEzIhcKAXESEmF6YWRpcmFjaHRhIGluZGljYSIRCgVrZ21pZBIIL20vMGM3ZDgoABhFILbJiaAB)* (Neem).
-
-The following technical documentation relies on peer-reviewed biomedical literature and official data sourced from government [site:gov] and academic [site:edu] institutions. [1, 2]
-
 * * * * *
 
-🏥 1. Pharmaceutical Applications
+1. Pharmaceutical Applications
 ---------------------------------
 
 -   Antineoplastic & Chemopreventive Agents: Isolated triterpenoids, notably Nimbolide, exhibit potent anti-proliferative efficacy against diverse human malignancies. [2]
@@ -15,7 +11,7 @@ The following technical documentation relies on peer-reviewed biomedical literat
 
 * * * * *
 
-📋 2. Regulatory & Industrial Frameworks
+2. Regulatory & Industrial Frameworks
 ----------------------------------------
 
 -   FDA Botanical Drug Development Guidance: Governed under the core principles of [Chemistry, Manufacturing, and Controls (CMC)](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/botanical-drug-development-guidance-industry), prioritizing a Marker Compound Strategy (typically Azadirachtin A) to verify batch-to-batch chemical uniformity across natural matrices. [3]
@@ -25,7 +21,7 @@ The following technical documentation relies on peer-reviewed biomedical literat
 
 * * * * *
 
-🧬 3. Molecular Mechanisms of Action
+3. Molecular Mechanisms of Action
 ------------------------------------
 
 A. Oncological Pathways (Nimbolide & Azadirachtin)
@@ -43,7 +39,7 @@ B. Metabolic Pathways (Aqueous Extracts)
 
 * * * * *
 
-🧪 4. Chemical Formulas of Key Bioactive Limonoids
+4. Chemical Formulas of Key Bioactive Limonoids
 --------------------------------------------------
 
 | Bioactive Compound | Molecular Formula | Chemical Structure Classification | Primary Target Action |
@@ -54,7 +50,7 @@ B. Metabolic Pathways (Aqueous Extracts)
 
 * * * * *
 
-🧮 5. Chemical Kinetics & Mathematical Equations
+5. Chemical Kinetics & Mathematical Equations
 ------------------------------------------------
 
 A. Supercritical Fluid Extraction (SFE) Modeling
