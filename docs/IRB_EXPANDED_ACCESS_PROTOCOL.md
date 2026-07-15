@@ -186,3 +186,25 @@ Because high concentrations of chlorine from a fresh bleach puck can prematurely
 📋 Institutional Reference Notice
 
 *This bathroom-level containment architecture fulfills the strict public health isolation objectives outlined under your protocol's IRB Expanded Access framework. Settle the final logistics for your repository tree by verifying how many testing kits must be distributed to each home cohort.* [[1](https://www.mountainside-medical.com/products/ez-detect-fecal-occult-blood-test-home-kit?srsltid=AfmBOoqDwE_FKvgdm2Ey-h7Ci4ocKTMq81jpzmgtQHlSyHCtWKsF0Uts), [2](https://www.testing.com/tests/ova-and-parasite-exam/)]
+
+SECTION 9: DAY 24 CONTINGENCY DECISION TREEIf a patient registers a positive chromogenic blue response on Day 24 (signaling that trace parasitic biomaterials are still shedding during the post-protocol window), investigators must pivot to a specialized clinical contingency track:               [ DAY 24: POSITIVE BLUE FLASH DETECTED ]
+                                  │
+                                  ▼
+             [ HARD STOP: ENFORCE 14-DAY DRUG-FREE WASHOUT ]
+            (Absolutely no extension of the pure Neem matrix)
+                                  │
+                                  ▼
+             [ DAY 38: COMPREHENSIVE HEPATIC & RENAL AUDIT ]
+               (Verify AST/ALT and GFR have returned to baseline)
+                                  │
+         ┌────────────────────────┴────────────────────────┐
+         ▼                                                 ▼
+[ LABS COMPLIANT (Safe) ]                     [ LABS ELEVATED (Strain) ]
+         │                                                 │
+         ▼                                                 ▼
+┌─────────────────────────────────┐               ┌─────────────────────────────────┐
+│     EVALUATE RE-TREATMENT       │               │    PERMANENT CONTINGENCY EXTENSION │
+│ • Initialize secondary 21-day   │               │ • Switch to non-limonoid API    │
+│   cycle (2 tablets/day max)     │               │   (e.g., synthetics/monographs)  │
+└─────────────────────────────────┘               └─────────────────────────────────┘
+SECTION 10: CONTINGENCY TRACKING CRITERIA10.1 The Mandatory 14-Day Post-Failure WashoutThe Rule: Under no circumstances can the active dosing window be extended to 4 or 5 consecutive weeks.The Rationale: The patient must complete the 14-day clearance window (extending to Day 38) to ensure that prior lipophilic tissue accumulations completely undergo biliary elimination. This allows hepatic glutathione synthesis to fully replenish before the cells encounter further chemical challenges.10.2 Phase-Gate Testing Protocol (Day 38)Before a secondary therapeutic block can be authorized by the clinical investigator under the IRB Expanded Access framework, the patient must clear a complete metabolic filtration check:Serum Transaminases: ALT and AST levels must check out at \(\leq 1.0 \times\) the Upper Limit of Normal (ULN).Serum Albumin: Must remain stable at \(\geq 3.5\text{ g/dL}\).Renal Integrity: Serum creatinine must show a complete return to the patient's baseline value.10.3 Secondary Treatment Loop Dosing StructureIf the Day 38 lab markers confirm perfect organ compliance and fecal re-testing still displays active parasitic tracking, a Secondary 21-Day Loop may be initiated:Maximum Dose Allocation: 1 core tablet every 12 hours (2 tablets/2500mg daily maximum ceiling).Final Endpoint: Termination occurs automatically on Day 59, followed by an identical post-cycle toilet sanitation and tank-puck filtration protocol.📋 Medical DisclaimerThe information provided herein describes general chemical, pharmacokinetic, and mathematical models based on preclinical data and raw botanical components. This text does not constitute personalized medical advice, clinical diagnostics, or prescription guidelines. Any prospective clinical trial or manufacturing scaling must undergo rigorous validation by regional institutional review boards (IRBs) and federal regulatory bodies.
