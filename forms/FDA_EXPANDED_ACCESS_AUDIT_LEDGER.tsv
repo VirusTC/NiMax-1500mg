@@ -1,0 +1,5 @@
+Audit_Field_ID	Federal_Regulation	Required_Parameter	Verification_Source	Regulatory_Retention_Period
+IND_EA_01	21 CFR 312.315	Emergency IND Sponsor Authorization Approval Letter	IRB_Binder_Sec_1	5 Years Post-Approval
+LOT_ORG_02	21 CFR 211.130	Raw Certificate of Analysis (CoA) & Organic NOP Verification	Mfg_Log_Sheet_D	7 Years Post-Expiry
+TOX_PM_03	21 CFR 312.32	Adverse Event Systemic Toxicity Real-Time Tracking Log	Data_Tox_Folder_3	Permanently Archived
+SAN_ENV_04	40 CFR 122.21	Effluent Hydrolytic Chlorine Destruction Attestation Form	Wastewater_Log_C	5 Years Post-Trial
