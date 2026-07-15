@@ -47,3 +47,25 @@ When plasma concentrations pierce the Minimum Toxic Concentration (\(\text{MTC} 
 \(\Delta p=\Delta \Psi -\frac{2.303\cdot R\cdot T}{F}\Delta \text{pH}\)
 
 As the electrical potential (\(\Delta \Psi\)) falls, ATP synthase stalls. The cell attempts to compensate by accelerating the citric acid cycle, producing excessive metabolic heat and severe localized lactic acidosis (\(\text{pH} < 7.32\)).
+
+* * * * *
+
+SECTION 3: SUBJECT ELIGIBILITY & CLINICAL CONTRAINDICATIONS
+
+3.1 Hepatic and Biliary Strict Exclusion Parameters
+
+Due to the competitive binding affinity of raw limonoid fractions for the cellular transport machinery of the biliary tree, subjects presenting with the following profiles are permanently excluded from clinical evaluations:
+
+-   Pre-existing **Cholelithiasis (gallstones)** or extrahepatic biliary strictures.
+-   Serum Bilirubin readings exceeding \(> 1.2\text{ mg/dL}\) or baseline Transaminases (**AST/ALT**) elevated to \(> 1.5 \times\) the Upper Limit of Normal (ULN).
+
+3.2 Clearance Mechanisms and Pediatric Restrictions
+
+-   **Adult Clearance**: Safely cleared via renal filtration and synchronized biliary excretion when integrated into a low-moisture gum acacia matrix (\(\text{LOD} < 2.0\%\)).
+-   **Pediatric Contraindication**: Complete structural prohibition of this formulation in pediatric or infant cohorts. Developing hepatic pathways lack mature glucuronidation pathways (specifically **UGT1A1**), running an immediate risk of triggering a chemical encephalopathy equivalent to Reye's Syndrome.
+
+* * * * *
+
+📋 Medical Disclaimer
+
+*The information provided herein describes general chemical, pharmacokinetic, and mathematical models based on preclinical data and raw botanical components. This text does not constitute personalized medical advice, clinical diagnostics, or prescription guidelines. Any prospective clinical trial or manufacturing scaling must undergo rigorous validation by regional institutional review boards (IRBs) and federal regulatory bodies.*
