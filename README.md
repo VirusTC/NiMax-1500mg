@@ -5,7 +5,7 @@
 
 This repository serves as the definitive administrative, toxicological, and operational source for the **NiMax-1500mg** Investigational Review Board (IRB) Expanded Access (Compassionate Use) program. The target formulation is a specialized, 100% active, pure botanical matrix utilizing certified organic *Azadirachta indica* (Neem) bound with Gum Acacia and stabilized with isolated Azadirachtin D.
 
-## 🔬 Formulation Architecture
+## Formulation Architecture
 Unlike conventional tablets that rely on synthetic bulking agents, the NiMax matrix utilizes raw plant fractions as both the Active Pharmaceutical Ingredient (API) and the primary filler:
 *   **Active Core:** Standardized Organic *Azadirachta indica* Extract / Powder.
 *   **Polymeric Binder:** 5.0% w/w Certified Organic Gum Acacia (Gum Arabic).
@@ -14,7 +14,7 @@ Unlike conventional tablets that rely on synthetic bulking agents, the NiMax mat
 
 ---
 
-## 🛑 Strict Clinical & Temporal Stop-Gates
+## Strict Clinical & Temporal Stop-Gates
 
 Because of the potential for lipophilic tissue saturation and hepatocyte stress, this protocol enforces absolute safety boundaries:
 1.  **Daily Max Ceiling:** One (1) core tablet orally every 12 hours ($q12h$). Absolute max of two (2) tablets per 24-hour cycle (2500mg/day total exposure).
@@ -24,7 +24,7 @@ Because of the potential for lipophilic tissue saturation and hepatocyte stress,
 
 ---
 
-## 🚽 Public Health & Environmental Containment
+## Public Health & Environmental Containment
 
 To prevent persistent active botanical residues and parasitic vectors from entering public wastewater systems, a strict dual-action containment method is enforced:
 *   **Alkaline Hydrolysis:** A continuous-release Sodium Hypochlorite ($\text{NaOCl}$ / Bleach) puck is installed in the upper toilet flush tank to chemically cleave the active limonoid ring scaffolds before waste exits the building grid.
@@ -32,7 +32,7 @@ To prevent persistent active botanical residues and parasitic vectors from enter
 
 ---
 
-## 📂 Repository File Structure
+## Repository File Structure
 
 ├── data/\
 │ └── PATIENT_MASTER_COMPLIANCE_LOG.tsv # Real-time tabular clinical audit tracking\
@@ -57,7 +57,7 @@ To prevent persistent active botanical residues and parasitic vectors from enter
 
 ---
 
-## ⚙️ Core Mathematical Frameworks Deployed
+## Core Mathematical Frameworks Deployed
 
 ### 1. Human Equivalent Dose (HED) Normalization
 $$\text{HED} = \text{NOAEL}_{\text{animal}} \times \left( \frac{K_{m, \text{animal}}}{K_{m, \text{human}}} \right)$$
@@ -70,7 +70,7 @@ $$\Delta p = \Delta \Psi - \frac{2.303 \cdot R \cdot T}{F} \Delta \text{pH}$$
 
 ---
 
-## 🛠️ Automated Python Verification
+## Automated Python Verification
 To run the automated compliance data audit engine and verify if data entries inside the `.tsv` ledgers match the mandatory IRB safety thresholds, execute:
 
 ```bash
@@ -79,5 +79,5 @@ python src/compliance_audit_engine.py
 
 ***
 
-### 📋 Medical & Legal Disclaimer
+### Medical & Legal Disclaimer
 The documentation, ledgers, and structural models maintained in this repository describe theoretical chemical, pharmacokinetic, and administrative parameters for software validation and compliance design. They do not constitute personalized medical advice, formal legal counsel, or official healthcare diagnostics. Any live implementation of individual expanded access frameworks must be formally reviewed, approved, and tracked by licensed institutional review boards (IRBs) and federal health authorities.
