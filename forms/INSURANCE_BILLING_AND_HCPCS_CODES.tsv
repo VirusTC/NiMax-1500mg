@@ -1,6 +1,6 @@
 Billing_Code	Code_Type	Description	Unit_Allotment	Reimbursement_Cap_USD
-99204	CPT	High-Complexity Clinician Evaluation (Day 0)	1 Visit	250.00
-80076	CPT	Hepatic Function Panel Screening (Day 0 / Day 14 / Day 38)	3 Runs	120.00
-J3590	HCPCS	Unclassified Botanical Drug (Azadirachta indica 1250mg matrix)	42 Cores	840.00
+99204	CPT	High-Complexity Clinician Evaluation (Day 0)	1 Visit	675.00
+80076	CPT	Hepatic Function Panel Screening (Day 0 / Day 14 / Day 38)	3 Runs	286.00
+J3590	HCPCS	Unclassified Botanical Drug (Azadirachta indica 1250mg matrix)	90 Capsules	$26,000.00
 G0499	HCPCS	Colorimetric Home Wastewater Screening Kit & Tank Neutralizer	1 Kit	65.00
-99213	CPT	Mid-Cycle Safety Review & Final Clearance (Day 14 Visit)	1 Visit	150.00
+99213	CPT	Mid-Cycle Safety Review & Final Clearance (Day 14 Visit)	1 Visit	275.00
